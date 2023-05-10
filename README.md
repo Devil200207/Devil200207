@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chinmachat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LO_Bfr58QhrZf4tmnP0SpwJWdI7as-qH/view](https://drive.google.com/file/d/1LO_Bfr58QhrZf4tmnP0SpwJWdI7as-qH/view)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1a8SJpnWWl7Y-5UTVw8IdrZ3n2jQUkd83/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny**
 # <b>Competitive Programming Platforms :-</b>
