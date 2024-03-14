@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and some backend frameworks**
 
-- 👨‍💻 All of my projects are available at [https://devil200207.github.io/csb-06sh2n/](https://devil200207.github.io/csb-06sh2n/)
+- 👨‍💻 All of my projects are available at [Protfolio](https://devil200207.github.io/protfolios/)
 
 - 💬 Ask me about **Cp,algorithms and for netflix and chill 😁**
 
